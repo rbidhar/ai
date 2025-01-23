@@ -1,4 +1,10 @@
 jupyterlab
-pandas
+ipykernel
+ipywidgets
 requests
-BeautifulSoup4
+beautifulsoup4
+pyppeteer
+pandas
+scikit-learn
+matplotlib
+
