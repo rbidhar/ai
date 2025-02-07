@@ -1,0 +1,17 @@
+jupyterlab
+ipykernel
+ipywidgets
+requests
+beautifulsoup4
+pyppeteer
+pandas
+scikit-learn
+matplotlib
+langchain
+langchain-google-genai
+langchain-openai
+python-decouple
+langchain_community
+langchain-ollama
+langchain_core
+ollama
